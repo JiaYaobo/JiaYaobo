@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiaYaobo
-- 👀 I’m interested in Data Science, Statistics and Web development
-- 🌱 I’m currently learning JavaScript R Python Rust WASM Go
+- 👀 I’m interested in data science, statistics and machine learning on high dimensional data
+- 🌱 I’m currently learning R Python Rust
 
 <!---
 JiaYaobo/JiaYaobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
