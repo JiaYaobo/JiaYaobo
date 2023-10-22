@@ -7,6 +7,8 @@ JiaYaobo/JiaYaobo is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://visitor-badge.glitch.me/badge?page_id=xxmy7.readme)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=JiaYaobo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Activity
